@@ -22,7 +22,3 @@ El código luego determina y muestra en qué cuadrante del plano se encuentra el
   - Si `axis_x == 0` y `axis_y != 0`, el punto está en el eje y.
   - Si `axis_x == 0` y `axis_y == 0`, el punto está en el origen.
   - Si ninguna de las condiciones anteriores se cumple, el programa imprimirá que el punto no está en ningún cuadrante.
-
-CONCLUSION:
-
-  Considero personalmente que no fueron ejercicios tan complejos; sin embargo, era necesario tener claras ciertas estructuras y métodos para llegar al resultado esperado.
